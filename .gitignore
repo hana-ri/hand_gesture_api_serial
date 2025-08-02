@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+hand_gesture_api_env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
