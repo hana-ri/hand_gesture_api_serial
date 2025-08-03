@@ -3,11 +3,11 @@
 Aplikasi ini mendeteksi gesture jari menggunakan webcam dan mengirimkan perintah ke ESP32 melalui serial.
 
 ## Persyaratan
-- Python 3.12.3 (wajib)
+- Python 3.9.7 (wajib)
 - Lihat `requirements.txt` untuk daftar dependensi Python
 
 ## Instalasi
-1. Pastikan Python 3.12.3 sudah terpasang di sistem Anda.
+1. Pastikan Python 3.9.7 sudah terpasang di sistem Anda.
 2. Install dependensi dengan perintah:
    
    ```bash
